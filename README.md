@@ -1,8 +1,9 @@
 # Costruire un modello
 
-Qui si trova il codice per costruire un piccolo modello agent based. Scaricate i file 
+Qui si trova il codice per costruire un piccolo modello agent based. Scaricate i file:
 - [SIsaR_0.9.6.1.nlogo](https://github.com/modelinglife/code/blob/main/SIsaR_0.9.6.1.nlogo)
 - [vaccinatePeople.nls](https://github.com/modelinglife/code/blob/main/vaccinatePeople.nls)
+
 e farlo girare localmente con [NetLogo](https://ccl.northwestern.edu/netlogo/download.shtml).
 
 Suggeriamo di scaricare il programma per osservare la ripetizione degli esperimenti, con diversi punti di partenza (seeds) dei numeri casuali. Questa operazione è abbastanza semplice, tramite Behavior Search, che si trova nel menu Tools di NetLogo, si esegue la riga "experiments with fixed parameters [considering NH [and schools]]." È possibile analizzare i diversi risultati del modello ai vari checkpoint. 
